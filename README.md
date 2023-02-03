@@ -19,3 +19,22 @@ Realizamos un Trabajo de Investigacion sobre la casuistica del covid 19 a nivel 
 - CSS
 - JavaScript
 - React
+
+## Tablero
+
+Este tablero se desarrolló utilizando React, d3.js v6, Mapbox y Sketch para diseñar el diseño de la interfaz de usuario SVG. El proyecto se inició con [Create React App](https://github.com/facebook/create-react-app).
+
+<img width="1021" alt="red color palette" src="https://user-images.githubusercontent.com/3186357/125206987-a407a880-e292-11eb-8f0b-188c4ca23269.png">
+
+---
+
+### Fuentes de datos
+
+**CSV de casos diarios globales de la OMS** Guardado localmente como `/public/data/who_global_cases.csv`
+https://covid19.who.int/WHO-COVID-19-global-data.csv
+
+**Datos de vacunación de la OMS (tipos de vacunas) CSV** Guardado localmente como `/public/data/who_vaccination_data.csv`
+https://covid19.who.int/who-data/vaccination-data.csv
+
+**CSV de datos de vacunación diaria de OWID** Guardado localmente como `/public/data/owid_vaccinations.csv`
+https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv

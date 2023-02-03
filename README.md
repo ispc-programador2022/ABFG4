@@ -6,7 +6,6 @@ Realizamos un Trabajo de Investigacion sobre la casuistica del covid 19 a nivel 
 
 ### Integrantes :
 
-- Alvarado, Karen Edith
 - Boero, Aldana Mailen del Rosario
 - Fehr, Julieta Carolina
 - Gomez, Juan Ezequiel
